@@ -1,5 +1,5 @@
 ﻿# Group6_FinalProject_v0
-项目工程地址：https://github.com/sysu-computer-graphics-team/CG-FinalProject/
+完整项目工程地址：https://github.com/sysu-computer-graphics-team/CG-FinalProject/
 ## 项目运行
 ```
 进入bin文件夹
