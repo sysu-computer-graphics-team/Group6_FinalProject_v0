@@ -1,4 +1,4 @@
-﻿# Group6_FinalProject_v0
+﻿# Group6_FinalProject_v1
 完整项目工程的地址：https://github.com/sysu-computer-graphics-team/CG-FinalProject/
 ##  项目运行
 ```
