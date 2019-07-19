@@ -3,7 +3,7 @@
 ##  项目运行
 ```
 git clone https://github.com/sysu-computer-graphics-team/Group6_FinalProject_v0
-进入bin文件夹
+进入bin文件夹，再进入exe文件夹
 运行 OpenGLFinalProject.exe
 ```
 
@@ -15,6 +15,7 @@ git clone https://github.com/sysu-computer-graphics-team/Group6_FinalProject_v0
       --- shaders  存放项目的着色器
       --- textures 存放项目的纹理
       --- fonts    存放项目的字体
+  --- Resources 存放项目可执行文件
 - doc 存放演示视频
 - src 存放项目代码以及库
   --- Resourcess   上传了Shader的代码
