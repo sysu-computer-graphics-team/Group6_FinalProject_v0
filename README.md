@@ -57,3 +57,5 @@ git clone https://github.com/sysu-computer-graphics-team/Group6_FinalProject_v0
 - 天空盒
 - 文字渲染
 - 爆破效果
+- 物理效果
+- 粒子系统
